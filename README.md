@@ -7,4 +7,4 @@
 ![e79d46ddd126948c09bddf2ad0a63e2](https://github.com/kerwinsyc/sunyuchao_414join/assets/146300064/1c498de4-7c0d-4769-bde2-5fbe59134529)
 # 冒泡算法
 由于c语言华还没学会，我就用python写了一个
-![屏幕截图(12)](https://github.com/kerwinsyc/sunyuchao_414join/assets/146300064/4a0232dd-c9fb-4a50-9617-4b3499466530)
+![屏幕截图(13)](https://github.com/kerwinsyc/sunyuchao_414join/assets/146300064/71dcfd57-23d1-4d74-b642-26d4e160ba5e)
